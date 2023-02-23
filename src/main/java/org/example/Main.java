@@ -16,6 +16,6 @@ public class Main {
        mainLayout.setTitle("App");
        mainLayout.setSize(800, 300);
        mainLayout.setVisible(true);
-       mainLayout.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+       mainLayout.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
     }
 }
